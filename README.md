@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Ivan!</h1>
 
-![Image alt](image.png)
+![Image alt](/imag.jpg)
 
 # About Me
 Hi, my name is Ivan. I am a junior front-end developer. I am currently learning HTML, CSS, and JavaScript and improving my web development skills.
