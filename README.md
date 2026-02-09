@@ -29,4 +29,9 @@ Hi, my name is Ivan. I am a junior front-end developer focused on improving my w
 ![C#](https://img.shields.io/badge/C%23-60%-purple?style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-50%-blue?style=for-the-badge)
 
+## 📫 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@sudo_ivan1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanyfug@gmail.com)
+
+
 ![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
