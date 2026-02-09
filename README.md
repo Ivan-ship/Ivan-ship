@@ -23,11 +23,15 @@ Hi, my name is Ivan. I am a junior front-end developer focused on improving my w
 
 
 ### 🏆 My Skills
-![HTML](https://img.shields.io/badge/HTML-90%25-green?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-61%25-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-70%-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-80%25-green?style=for-the-badge)
+
+![CSS](https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge)
+
 ![C#](https://img.shields.io/badge/C%23-75%25-purple?style=for-the-badge)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-50%-blue?style=for-the-badge)
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-30%25-blue?style=for-the-badge)
 
 ## 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@sudo_ivan1)
