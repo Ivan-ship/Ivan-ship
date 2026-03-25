@@ -3,9 +3,9 @@
 ![Image alt](/imag.jpg)
 
 # About Me
-💻 HTMl + CSS + JavaScript + С#
+💻 HTMl + CSS + JavaScript + Python
 
-Hi, my name is Ivan. I am a junior front-end developer focused on improving my web development skills. I am currently learning HTML, CSS, and JavaScript, and expanding my knowledge into back-end development with ASP.NET Core.
+Hi, my name is Ivan. I am a junior front-end developer focused on improving my web development skills. I am currently learning HTML, CSS, and JavaScript, and expanding my knowledge into back-end development with Python (Fast-api).
 
 🎓I study at the  University
 
@@ -17,8 +17,7 @@ Hi, my name is Ivan. I am a junior front-end developer focused on improving my w
 ![CSS]( https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&logo=css&color=yellow)
 ![JavaScript]( https://img.shields.io/badge/JavaScript-brightgreen?style=for-the-badge&logo=javascript&color=blue)
 ![Git]( https://img.shields.io/badge/Git-brightgreen?style=for-the-badge&logo=git&color=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 
 
@@ -29,9 +28,8 @@ Hi, my name is Ivan. I am a junior front-end developer focused on improving my w
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge)
 
-![C#](https://img.shields.io/badge/C%23-75%25-purple?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-79%25-purple?style=for-the-badge)
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-30%25-blue?style=for-the-badge)
 
 ## 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sudo_ivan1)
