@@ -35,6 +35,6 @@ Hi, my name is Ivan. I am a junior front-end developer focused on improving my w
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sudo_ivan1)
 [![Email](https://img.shields.io/badge/Gmail-vanyfug%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanyfug@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-ship&show_icons=true&theme=radical)
 
 ![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
