@@ -3,9 +3,11 @@
 ![Image alt](/imag.jpg)
 
 # About Me
-💻 HTMl + CSS + JavaScript + Python
+💻 Backend Developer (Python)
 
-Hi, my name is Ivan. I am a junior front-end developer focused on improving my web development skills. I am currently learning HTML, CSS, and JavaScript, and expanding my knowledge into back-end development with Python (Fast-api).
+I focus on backend development using Python.  
+Currently working with APIs, Telegram bots and databases.
+
 
 🎓I study at the  University
 
@@ -13,22 +15,18 @@ Hi, my name is Ivan. I am a junior front-end developer focused on improving my w
 
 ✈️I like travel
 ## 🛠 Languages and Tools
-![HTML](https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge&logo=html&color=Orange)
-![CSS]( https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&logo=css&color=yellow)
-![JavaScript]( https://img.shields.io/badge/JavaScript-brightgreen?style=for-the-badge&logo=javascript&color=blue)
 ![Git]( https://img.shields.io/badge/Git-brightgreen?style=for-the-badge&logo=git&color=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### 🏆 My Skills
-![HTML](https://img.shields.io/badge/HTML-80%25-green?style=for-the-badge)
-
-![CSS](https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-79%25-purple?style=for-the-badge)
-
+### 🏆 Tech Stack
+- Python
+- FastAPI
+- aiogram
+- PostgreSQL
+- SQLAlchemy
+- Git
 
 ## 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sudo_ivan1)
